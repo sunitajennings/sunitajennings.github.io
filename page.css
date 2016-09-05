@@ -11,7 +11,7 @@ div {
 	margin-left: -15px;
 	margin-right: -15px;
 }
-.overview, .details, .examples {
+.overview, .detail, .examples {
 	float: left;
 	width: 33.3333%;
 	position: relative;
