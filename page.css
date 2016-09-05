@@ -1,10 +1,19 @@
 div {
  display: block;
 }
-h2 {
+
+p {
+ font: 400 15px/1.6 'Open Sans','Helvetica Neue',Helvetica,sans-serif;
+}
+h2,h3 {
  color:darkgray;
  font-family: 'Gruppo', cursive;
- font-size:56px;
+}
+h2 {
+ font-size:28px;
+}
+h3 {
+ font-size:24px;
 }
 .container {
 	
