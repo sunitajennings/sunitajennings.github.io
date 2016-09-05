@@ -2,8 +2,8 @@ div {
  display: block;
 }
 
-p {
- font: 400 15px/1.6 'Open Sans','Helvetica Neue',Helvetica,sans-serif;
+p,a {
+ font: 400 15px/1.4 'Open Sans','Helvetica Neue',Helvetica,sans-serif;
 }
 h2,h3 {
  color:darkgray;
